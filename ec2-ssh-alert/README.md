@@ -1,6 +1,4 @@
-Absolutely, Vaibhavi! Here's your **📘 *Visual README.md*** for the project **“Wrong PEM SSH Detector with IP Blocking using AWS Network ACL + SNS”**, written in a visually engaging format with emojis, terminal-style commands, markdown badges, and clear sections — **ready to upload to GitHub**.
 
----
 
 ````markdown
 # 🔐 Wrong PEM SSH Detector + IP Blocking with AWS Network ACL + SNS
